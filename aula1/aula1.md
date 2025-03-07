@@ -5,7 +5,7 @@
 
 ---
 
-## 1⃣ Introdução ao React.js
+## 1 Introdução ao React.js
 ### 📌 O que é React?
 React.js é uma biblioteca JavaScript para construção de interfaces de usuário. Criado pelo Facebook, permite desenvolver aplicações de página única (SPAs) de maneira eficiente e modular.
 
@@ -16,7 +16,7 @@ React.js é uma biblioteca JavaScript para construção de interfaces de usuári
 
 ---
 
-## 2⃣ Criando um Projeto React
+## 2 Criando um Projeto React
 ### 📂 Instalação do Node.js
 Baixe e instale o Node.js: [https://nodejs.org/](https://nodejs.org/)
 
@@ -40,7 +40,7 @@ npm run dev
 
 ---
 
-## 3⃣ Conceitos Fundamentais
+## 3 Conceitos Fundamentais
 ### 📌 Componentes e JSX
 O React usa **JSX (JavaScript XML)**, que permite escrever HTML dentro do JavaScript.
 
@@ -130,7 +130,7 @@ export default Contador;
 
 ---
 
-## 4⃣ Eventos e Manipulação de Estado
+## 4 Eventos e Manipulação de Estado
 ### 📌 Eventos no React
 Os eventos permitem interagir com os componentes.
 
@@ -158,7 +158,7 @@ export default Formulario;
 
 ---
 
-## 5⃣ Consumindo uma API Simples
+## 5 Consumindo uma API Simples
 Podemos buscar dados de uma API externa usando `fetch` ou `axios`.
 
 **Exemplo: Buscando e exibindo usuários**
