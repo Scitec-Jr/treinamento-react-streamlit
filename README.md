@@ -49,7 +49,7 @@ Na segunda aula, mostramos como integrar React.js ao Streamlit:
 1. Clone o repositório:
    ```sh
    git clone https://github.com/Scitec-Jr/treinamento-react-streamlit.git
-   cd react-streamlit-treinamento
+   cd treinamento-react-streamlit
    ```
 2. Instale as dependências do Streamlit:
    ```sh
